@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "xray"
+version = "0.1.0"
+description = "Predicting pneumonia using lung image xrays."
+authors = ["Jibbie17 <gabesbarrett17@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+torch = "^2.2.2"
+lightning = "^2.2.2"
+torchvision = "^0.17.2"
+requests = "^2.31.0"
+matplotlib = "^3.8.4"
+
+[tool.poetry.group.dev.dependencies]
+numpy = "^1.26.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
