@@ -2,3 +2,5 @@
 *.jpeg
 *.jpg
 data/
+*.ckpt
+lightning_logs/
