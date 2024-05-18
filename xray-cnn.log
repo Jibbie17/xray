@@ -1,0 +1,45 @@
+2024-05-18 14:53:13,026:INFO:GPU available: False, used: False
+2024-05-18 14:53:13,029:INFO:TPU available: False, using: 0 TPU cores
+2024-05-18 14:53:13,029:INFO:IPU available: False, using: 0 IPUs
+2024-05-18 14:53:13,030:INFO:HPU available: False, using: 0 HPUs
+2024-05-18 14:53:13,116:INFO:
+  | Name    | Type             | Params
+---------------------------------------------
+0 | loss_fn | CrossEntropyLoss | 0     
+1 | LeNet   | Sequential       | 7.2 M 
+---------------------------------------------
+7.2 M     Trainable params
+0         Non-trainable params
+7.2 M     Total params
+28.630    Total estimated model params size (MB)
+2024-05-18 15:05:39,062:INFO:`Trainer.fit` stopped: `max_epochs=2` reached.
+2024-05-18 15:05:39,274:INFO:GPU available: False, used: False
+2024-05-18 15:05:39,275:INFO:TPU available: False, using: 0 TPU cores
+2024-05-18 15:05:39,275:INFO:IPU available: False, using: 0 IPUs
+2024-05-18 15:05:39,276:INFO:HPU available: False, using: 0 HPUs
+2024-05-18 15:05:39,297:INFO:
+  | Name    | Type             | Params
+---------------------------------------------
+0 | loss_fn | CrossEntropyLoss | 0     
+1 | LeNet   | Sequential       | 7.2 M 
+---------------------------------------------
+7.2 M     Trainable params
+0         Non-trainable params
+7.2 M     Total params
+28.630    Total estimated model params size (MB)
+2024-05-18 15:18:41,251:INFO:`Trainer.fit` stopped: `max_epochs=2` reached.
+2024-05-18 15:44:20,622:INFO:GPU available: False, used: False
+2024-05-18 15:44:20,630:INFO:TPU available: False, using: 0 TPU cores
+2024-05-18 15:44:20,632:INFO:IPU available: False, using: 0 IPUs
+2024-05-18 15:44:20,634:INFO:HPU available: False, using: 0 HPUs
+2024-05-18 15:44:20,671:INFO:
+  | Name    | Type             | Params
+---------------------------------------------
+0 | loss_fn | CrossEntropyLoss | 0     
+1 | LeNet   | Sequential       | 7.2 M 
+---------------------------------------------
+7.2 M     Trainable params
+0         Non-trainable params
+7.2 M     Total params
+28.630    Total estimated model params size (MB)
+2024-05-18 16:07:57,992:INFO:`Trainer.fit` stopped: `max_epochs=4` reached.
